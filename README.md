@@ -3,13 +3,13 @@
 ## Meta-Information
 
 * Module Maintainer: Lachlan Deer (`@lachlandeer`)
-* Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
-* Institute: Dept of Economics, Uni Zurich
-* Current Version: [Winter 2020 edition](https://pp4rs.github.io/2020-uzh-installation-guide)
+* Course: [Social Media and Web Analytics](https://tisem-digital-marketing.github.io/2021-smwa)
+* Institute: Dept of Marketing, Tilburg University
+* Current Version: [Spring 2021 edition](https://tisem-digital-marketing.github.io/smwa-installation-guide-2021/)
 
 ## What this repo does
 
-It forwards users to the current version of the installation guide. 
+It forwards users to the current version of the installation guide.
 
 How to update:
 
